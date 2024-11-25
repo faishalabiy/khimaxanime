@@ -4,7 +4,7 @@ export default function Page(){
 }
 */
 
-const Page = () => {
+const searchPage = () => {
     return (
         <>
             <h1>SEARCH PAGE</h1>
@@ -13,4 +13,4 @@ const Page = () => {
     )
 }
 
-export default Page
+export default searchPagePage
